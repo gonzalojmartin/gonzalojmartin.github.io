@@ -11,7 +11,8 @@ body {
   font-family: 'Lato', arial, sans-serif;
   color: #434343;
   background: #dae3e7;
-  font-size: 16px;
+  background-image: url("../images/fondo.png");
+  font-size: 1.5em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -26,7 +27,7 @@ h6 {
   color: #778492;
 }
 a {
-  color: #3aaa64;
+  color: #22A7F0;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -34,8 +35,8 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #5f6b77;
-  color: #2d844e;
+  color: #1F4788;
+  color: #1F4788;
 }
 .btn,
 a.btn {
@@ -57,16 +58,16 @@ a.btn:focus {
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #54ba4e;
-  border: 1px solid #54ba4e;
+  background: #22A7F0;
+  border: 1px solid #22A7F0;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
-  background: #49ac43;
-  border: 1px solid #49ac43;
+  background: #19B5FE;
+  border: 1px solid #19B5FE;
   color: #fff;
 }
 a.btn-cta-secondary,
@@ -115,7 +116,7 @@ iframe {
 .header {
   padding: 30px 0;
   background: #f5f5f5;
-  border-top: 10px solid #778492;
+  border-bottom: 5px solid #444;
 }
 .header .btn {
   margin-top: 60px;
@@ -126,7 +127,8 @@ iframe {
 }
 .header .profile-content .name {
   color: #49515a;
-  font-size: 38px;
+  font-size: 3em;
+  font-weight: 400;
   margin-bottom: 5px;
   margin-top: 30px;
 }
@@ -134,9 +136,10 @@ iframe {
   color: #778492;
   font-family: "Lato", arial, sans-serif;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 2em;
   margin-top: 0;
   margin-bottom: 15px;
+  text-transform:uppercase;
 }
 .header .profile-content .social a {
   background: #b0b7bf;
@@ -176,6 +179,7 @@ iframe {
 }
 .section {
   margin-bottom: 30px;
+  border: solid 1px #bbb;
 }
 .section .section-inner {
   background: #fff;
@@ -184,8 +188,9 @@ iframe {
 .section .heading {
   margin-top: 0;
   margin-bottom: 30px;
-  color: #545e69;
-  font-size: 24px;
+  color: #444;
+  font-weight: 100;
+  font-size: 2em;
 }
 .section .content .more-link .fa {
   margin-right: 5px;
@@ -288,10 +293,11 @@ iframe {
   margin-bottom: 30px;
 }
 .projects .item .title {
-  font-size: 16px;
+  font-size: 1.2em;
+  font-weight: 100;
   margin-top: 0;
   margin-bottom: 5px;
-  line-height: 1.5;
+  *line-height: 1.5;
 }
 .projects .item .title a {
   color: #778492;
@@ -304,7 +310,8 @@ iframe {
   margin-bottom: 30px;
 }
 .experience .item .title {
-  font-size: 16px;
+  font-size: 1.2em;
+  font-weight: 100;
   margin-top: 0;
   margin-bottom: 5px;
   line-height: 1.5;
@@ -360,13 +367,14 @@ iframe {
   margin-bottom: 30px;
 }
 .skills .skillset .level-title {
-  font-size: 16px;
+  font-size: 1.2em;
+  font-weight: 100;
   position: relative;
   margin-top: 0;
   margin-bottom: 10;
 }
 .skills .skillset .level-title .level-label {
-  color: #ccd1d6;
+  color: #ccc;
   font-size: 14px;
   font-weight: 400;
   font-family: "Lato", arial, sans-serif;
@@ -380,7 +388,7 @@ iframe {
 }
 .skills .skillset .level-bar-inner {
   height: 15px;
-  background: #66cb8c;
+  background: #22A7F0;
 }
 /* Testimonials section */
 .testimonials .item {
@@ -419,7 +427,8 @@ iframe {
   margin-bottom: 0;
 }
 .education .item .title {
-  font-size: 16px;
+  font-size: 1.2em;
+  font-weight: 100;
   margin-top: 0;
 }
 .education .item .university {
@@ -438,7 +447,8 @@ iframe {
   margin-bottom: 15px;
 }
 .languages .item .title {
-  color: #778492;
+	font-size: 1em;font-weight: 100;
+	color: #778492;
 }
 .languages .item .level {
   color: #999999;
@@ -447,7 +457,7 @@ iframe {
   margin-bottom: 0;
 }
 .languages .item .fa {
-  color: #79d19a;
+  color: #aaa;
 }
 /* Blog Section */
 .blog .item {
@@ -548,4 +558,7 @@ iframe {
 }
 .hide {
 	display: none;
+}
+.social-footer a{
+	font-size: 1.5em;
 }

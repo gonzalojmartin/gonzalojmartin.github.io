@@ -1,7 +1,7 @@
 function localize() {
 	'use strict';
 
-	var language = 'en';
+	var language = 'es';
 
 	$.i18n( {
 	    locale: language
@@ -22,7 +22,7 @@ $.i18n.debug = true;
 
 $(window).on('load', function() {
 
-	var selected = 'en';
+	var selected = 'es';
 	$( "#lang" ).click(function() {
 		if (selected == 'en') {
 			$.i18n( {

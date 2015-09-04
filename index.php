@@ -64,15 +64,15 @@
                 <h1 class="name">Gonzalo Mart&iacute;n</h1>
                 <h2 class="desc i18n" data-i18n="sub-header"></h2>   
                 <ul class="social list-inline">
-                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>                   
-                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="#"><i class="fa fa-github-alt"></i></a></li>                  
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>    
-                    <li id="lang" class="language-es"><a href="#" title="Translate this page"><i class="fa fa-language"></i></a></li>                      
+                    <li><a href="http://www.facebook.com/gonzalo.albamonte" target="_blank"><i class="fa fa-facebook"></i></a></li>    
+                    <li><a href="https://twitter.com/gonzajmartin" target="_blank"><i class="fa fa-twitter"></i></a></li>                   
+                    <li><a href="https://plus.google.com/104858043310922512019/posts" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                    <li><a href="https://ar.linkedin.com/in/gonzalojmartin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="https://github.com/gonzalojmartin" target="_blank"><i class="fa fa-github-alt"></i></a></li>                  
+                    <li id="lang" class="language-en"><a href="#" title="Translate this page"><i class="fa fa-language"></i></a></li>                      
                 </ul> 
             </div><!--//profile-->
-            <a class="btn btn-cta-primary pull-right" href="http://themes.3rdwavemedia.com/" target="_blank"><i class="fa fa-paper-plane"></i> <span class="i18n" data-i18n="contact-me"></span></a>              
+            <a class="btn btn-cta-primary pull-right" href="#contact-me" target="_blank"><i class="fa fa-paper-plane"></i> <span class="i18n" data-i18n="contact-me"></span></a>              
         </div><!--//container-->
     </header><!--//header-->
     
@@ -221,7 +221,6 @@
                         <div class="content">
                             <ul class="list-unstyled">
                                 <li><i class="fa fa-map-marker"></i><span class="sr-only">Location:</span>Buenos Aires, Argentina</li>
-                                <li><i class="fa fa-envelope-o"></i><span class="sr-only">Email:</span><a href="#">contacto@gonzalojmartin.com</a></li>
                                 <li><i class="fa fa-envelope-o"></i><span class="sr-only">Email:</span><a href="#">gonzalojavimartin@gmail.com</a></li>
                                 <li><i class="fa fa-skype"></i><span class="sr-only">User Skype:</span><a href="#">gonzalojavimartin</a></li>
                             </ul>
@@ -275,16 +274,15 @@
                                         </div>                                      
                                     </div><!--//level-bar-->                                 
                                 </div><!--//item-->
-								
+								<!--
                                 <div class="item">
                                     <h3 class="level-title">GIT<span class="level-label i18n" data-i18n="skills-over-<?php echo $year-2014; ?>-years-experiences"></span></h3>
                                     <div class="level-bar">
                                         <div class="level-bar-inner" data-level="45%">
                                         </div>                                      
-                                    </div><!--//level-bar-->                                 
-                                </div><!--//item-->
-                                
-                                
+                                    </div>
+                                </div>
+									-->
                                 
                                 <p><a class="more-link" href="#"><i class="fa fa-external-link"></i> <span class="i18n" data-i18n="view-more-linkedin"></span></a></p> 
                             </div>              
@@ -342,7 +340,7 @@
                     </div><!--//section-inner-->
                 </aside><!--//section-->
 					
-				<aside class="aside section">
+				<aside id="contact-me" class="aside section">
 					<div class="section-inner">
 						<h2 class="heading i18n" data-i18n="contact-me"></h2>
                         <div class="content">
@@ -369,8 +367,8 @@
 									<textarea class="form-control" id="message" name="message" rows="7" style="resize:none"  required></textarea>
 								</div>	
 								<div class="form-group">
-									<button onClick="sendEmail()" type="button" id="buttonSend" class="btn btn-primary btn-block"><span class="i18n" data-i18n="contact-me-send"></span></button>
-									<button type="button" id="buttonLoading" class="btn btn-primary btn-block disabled" style="display: none"><i class='fa fa-spinner fa-spin'></i> <span class="i18n" data-i18n="contact-me-send-loading"></span></button>
+									<button onClick="sendEmail()" type="button" id="buttonSend" class="btn btn-primary btn-cta-primary  btn-block"><span class="i18n" data-i18n="contact-me-send"></span></button>
+									<button type="button" id="buttonLoading" class="btn btn-primary btn-cta-primary  btn-block disabled" style="display: none"><i class='fa fa-spinner fa-spin'></i> <span class="i18n" data-i18n="contact-me-send-loading"></span></button>
 								</div>
 							</form>	
 						</div>	
@@ -382,11 +380,33 @@
     
     <!-- ******FOOTER****** --> 
     <footer class="footer">
-        <div class="container text-center">
-                <small class="copyright">Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
+         <div class="container text-right">
+                <ul class="list-inline" style="margin:0">
+                    <li><a href="http://www.facebook.com/gonzalo.albamonte" target="_blank"><i class="fa fa-facebook"></i></a></li>    
+                    <li><a href="https://twitter.com/gonzajmartin" target="_blank"><i class="fa fa-twitter"></i></a></li>                   
+                    <li><a href="https://plus.google.com/104858043310922512019/posts" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                    <li><a href="https://ar.linkedin.com/in/gonzalojmartin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="https://github.com/gonzalojmartin" target="_blank"><i class="fa fa-github-alt"></i></a></li>                  
+                </ul>
         </div><!--//container-->
     </footer><!--//footer-->
-        
+	
+	<script>
+		$(document).ready(function(){
+			$('a[href*=#]:not([href=#])').click(function() {
+				if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+				  var target = $(this.hash);
+				  target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+				  if (target.length) {
+					$('html,body').animate({
+					  scrollTop: target.offset().top - 50
+					}, 1000);
+					return false;
+				  }
+				}
+			});
+		});
+	</script>
 </body>
 </html> 
 
