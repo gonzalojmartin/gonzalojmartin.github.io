@@ -1,0 +1,92 @@
+{
+        "sub-header" : "Desarrollador Web",
+
+        "about-me" : "Acerca de mi",
+        "about-me-1" : "Soy un desarrollador de aplicaciones web. Comprometido en todas las etapas del proyecto; Relevamiento, Programacion, Implementacion y Soporte. Con el objetivo de crear aplicaciones robustas, utilizando las ultimas tecnologias disponibles.",
+        "about-me-2" : "Actualmente trabajo con diferentes lenguajes, preferentemente PHP.",
+
+		
+		"training": "Capacitación",
+		"training-1-title": "VMware vSphere 5.1",
+		"training-1-desc": "Este curso de formación práctica explora la instalación, configuración y gestión de VMware vSphere, que consiste en VMware ESXi™ y VMware vCenter Server™. Este curso se basa en las versiones de ESXi 5.1 y vCenter Server 5.1",
+		"training-2-title": "SQL Analysis Services 2008",
+		"training-2-desc": "Este curso de formación práctica explora el diseño y desarrollo de soluciones de BI. Este curso se basa en Analysis Services 2008",
+		"training-3-title": "SQL Server 2008",
+		"training-3-desc": "Este curso de formación práctica explora el diseño, desarrollo, ajuste y administracion de base de datos. Este curso se basa en SQL Server 2008.",
+		
+		
+		"work-experience" : "Experiencia Laboral",
+        "work-experience-1" : "Responsable de Sistemas",
+        "work-experience-1-desc-1" : "Actualmente estoy a cargo del Departamento de Sistemas.",
+        "work-experience-1-desc-2" : "Garantizo el funcionamiento de todos los equipos y servicios tecnológicos y de infraestructura de la compañía.",
+        "work-experience-2" : "Encargado",
+        "work-experience-2-desc-1" : "Ocupaba el puesto de encargado.",
+        "work-experience-2-desc-2" : "Desarrollando tareas de atención al cliente, controles de stock, reparación de equipos, entre otras.",
+		
+        "my-github" : "Mi actividad en GitHub",
+        
+        "latest-projects" : "Latest Projects",
+        "latest-projects-1" : "A comprehensive security and management platform built for businesses, educational institutions, & organizations that use Google Apps.",
+        "latest-projects-2" : "FlashPanel is used by IT professionals in over 40,000 organizations around the world to manage their Google Apps domains. FlashPanel empowers IT users to audit and uncover potential risks, take action to bring company assets and users back into compliance, and set automation rules to enforce organizational policies on an ongoing basis.",
+        "latest-projects-3" : "Magick - Beautifully Simple Trade Automation",
+        "latest-projects-4" : "Simple Trade Automation. Users can design and deploy their FX trading strategies in minutes using intuitive rules generators without the need of programming them.",
+
+        "view-more-linkedin" : "Ver más en Linkedin",
+		
+		"skills": "Habilidades",
+		"skills-over-7-years-experiences": "más de 7 años de experiencia",
+		"skills-over-6-years-experiences": "más de 6 años de experiencia",
+		"skills-over-5-years-experiences": "más de 5 años de experiencia",
+		"skills-over-4-years-experiences": "más de 4 años de experiencia",
+		"skills-over-3-years-experiences": "más de 3 años de experiencia",
+		"skills-over-2-years-experiences": "más de 2 años de experiencia",
+		"skills-over-1-years-experiences": "más de 1 año de experiencia",
+		
+        "education" : "Educación",
+        "education-title-1" : "Ingenieria Informatica",
+        "education-title-2" : "Desarrollador de Software",
+		
+		"languages" : "Idioma",
+        "languages-1-title" : "Español:",
+        "languages-1-desc" : "Nativo",
+        "languages-2-title" : "Inglés:",
+        "languages-2-desc" : "Oral y Escrito basico",
+		
+		"contact-me" : "Contacteme",
+        "contact-me-name": "Nombre",
+        "contact-me-email": "Email",
+        "contact-me-message": "Mensaje",
+        "contact-me-send": "Enviar",
+        "contact-me-alert-error": "Lo siento. El email no pudo enviarse.",
+        "contact-me-alert-ok": "El email se envio correctamente.",
+        
+		
+        "latest-projects" : "Proyectos recientes",
+        "latest-projects-1" : "Intuitiva aplicacion que actúa como plataforma de seguridad y administracion de negocios, instituciones educativas y cualquier otra organización que utilice Google Apps",
+        "latest-projects-2" : "Flashpanel es utilizada por profesionales del rubro IT en más de 40.000 organizaciones alrededor del mundo para administrar sus dominios. Flashpanel ayuda a los usuarios a auditar y detectar riesgos potenciales y establecer reglas de automatización para hacer cumplir las políticas de organización de manera permanente.",
+        "latest-projects-3" : "Magick - Trading automatizado, simple y elegante",
+        "latest-projects-4" : "Trading automatizado. Los usuarios pueden diseñar y desplegar sus estrategias de FX trading en minutos utilizando generadores de reglas intuitivas sin necesidad de saber como programarlas.",
+
+        "view-more" : "VER MÁS",
+
+
+
+        "odesk-profile" : "Perfil en oDesk",
+
+        "testimonials" : "Testimonios",
+        "testimonials-1" : "Cristian en una persona muy apasionada. Siempre trata de que su código se vea bien y que hasta el más minimo detalle funcione perfectamente.",
+
+
+        "open-source" : "Contribuciones Open Source",
+        "open-source-1" : "Agregué la funcionalidad de Drag and Drop a la librería. RaphaelGWT permite usar Raphaël en aplicaciones GWT. Raphaël es una librería JavaScript liviana para crear gráficos vectorizados que utilizan SVG en navegadores que lo soportan, y Microsoft VML en Internet Explorer.",
+
+        "coding-music" : "Que música escucho",
+        "reading" : "Que me gusta leer",
+
+        "awards" : "Premios",
+        "awards-1" : "1º Puesto en la competencia \"Copa Turing 2009\"",
+
+        "find-out-more" : "Descubrí más",
+        "more-on-linkedin" : "Más en LinkedIn",
+        "more-info" : "Más info"
+}

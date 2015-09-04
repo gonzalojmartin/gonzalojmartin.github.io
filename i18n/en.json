@@ -1,0 +1,86 @@
+{
+        "sub-header" : "Web App Developer",
+
+        "about-me": "About Me",
+		"about-me-1": "I am web app developer. Involved in all stages of the project; Survey, Programming, Implementation and Support. Aiming to create robust applications using the latest technologies available",
+		"about-me-2": "Currently i work with different environment, preferably PHP.",
+		
+		"training": "Training",
+		"training-1-title": "VMware vSphere 5.1",
+		"training-1-desc": "This hands-on training course explores installation, configuration, and management of VMware vSphere®, which consists of VMware ESXi™ and VMware® vCenter Server™. This course is based on versions of ESXi 5.1 and vCenter Server 5.1",
+		"training-2-title": "SQL Analysis Services 2008",
+		"training-2-desc": "This hands-on training course explores design and development of BI solutions. This course is based on Analysis Services 2008.",
+		"training-3-title": "SQL Server 2008",
+		"training-3-desc": "This hands-on training course explores design, development, tuning and database administration. This course is based on SQL Server 2008.",
+		
+		"work-experience" : "Work Experience",
+        "work-experience-1" : "IT Manager",
+        "work-experience-1-desc-1" : "Currently I am in charge of the IT Department.",
+        "work-experience-1-desc-2" : "I guarantee the operation of equipment and technological services and infrastructure of the company.",
+        "work-experience-2" : "Shop Manager",
+        "work-experience-2-desc-1" : "I held the position of shop manager.",
+        "work-experience-2-desc-2" : "Customer service, stock control, equipment repair, among others.",
+        
+		"my-github" : "My GitHub",
+		
+		"skills": "Skills",
+		"skills-over-7-years-experiences": "over 7 years of experiencies",
+		"skills-over-6-years-experiences": "over 6 years of experiencies",
+		"skills-over-5-years-experiences": "over 5 years of experiencies",
+		"skills-over-4-years-experiences": "over 4 years of experiencies",
+		"skills-over-3-years-experiences": "over 3 years of experiencies",
+		"skills-over-2-years-experiences": "over 2 years of experiencies",
+		"skills-over-1-years-experiences": "over 1 year of experiencies",
+		
+		"education" : "Education",
+        "education-title-1" : "Computers Engineering",
+        "education-title-2" : "Software Developer",
+		
+		"languages" : "Languages",
+        "languages-1-title" : "Spanish:",
+        "languages-1-desc" : "Native Speaker",
+        "languages-2-title" : "English:",
+        "languages-2-desc" : "Basic Oral & Writing",
+		
+		"contact-me" : "Contact me",
+        "contact-me-name": "Name",
+        "contact-me-email": "Email",
+        "contact-me-message": "Message",
+        "contact-me-send": "Send",
+        "contact-me-send-loading": "Please Wait",
+        "contact-me-alert-error": "Sorry. The email could not be sent.",
+        "contact-me-alert-ok": "The email was sent successfully",
+		
+        "latest-projects" : "Latest Projects",
+        "latest-projects-1" : "A comprehensive security and management platform built for businesses, educational institutions, & organizations that use Google Apps.",
+        "latest-projects-2" : "FlashPanel is used by IT professionals in over 40,000 organizations around the world to manage their Google Apps domains. FlashPanel empowers IT users to audit and uncover potential risks, take action to bring company assets and users back into compliance, and set automation rules to enforce organizational policies on an ongoing basis.",
+        "latest-projects-3" : "Magick - Beautifully Simple Trade Automation",
+        "latest-projects-4" : "Simple Trade Automation. Users can design and deploy their FX trading strategies in minutes using intuitive rules generators without the need of programming them.",
+
+        "view-more-linkedin" : "View more on Linkedin",
+
+        
+
+       
+
+        "odesk-profile" : "oDesk profile",
+
+
+        "testimonials" : "Testimonials",
+        "testimonials-1" : "Cristian is a very passionate guy, who's always trying to make the code look beautiful and every little thing work perfectly.",
+
+
+
+        "open-source" : "Open Source Contributions",
+        "open-source-1" : "I've added the Drag and Drop feature to the library. RaphaelGWT is a library that allows you to use Raphaël in your GWT application. Raphaël is a lightweight JavaScript library for cross-platform vector graphics that uses SVG in browsers that support it, and Microsoft VML on Internet Explorer.",
+
+        "coding-music" : "Favourite music",
+        "reading" : "What I like to read",
+
+        "awards" : "Awards",
+        "awards-1" : "1st Place in the \"Copa Turing 2009\" competition",
+
+        "find-out-more" : "Find out more",
+        "more-on-linkedin" : "More on LinkedIn",
+        "more-info" : "More info"
+}
